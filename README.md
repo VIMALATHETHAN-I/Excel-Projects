@@ -18,7 +18,7 @@
 ---
 
 ## Project Overview
-Developed an **Excel-based analytics system** to provide actionable insights into **sales performance, customer behavior, and financial health** for Atliq Hardware Technologies. Leveraged **Power Query, Power Pivot, Pivot Tables, and DAX** to create **interactive, user-friendly dashboards** that drive data-backed decisions and strategic growth.
+Developed an **Excel-based analytics report** to provide actionable insights into **sales performance, customer behavior, and financial health** for Atliq Hardware Technologies. Leveraged **Power Query, Power Pivot, Pivot Tables, and DAX** to create **interactive, user-friendly dashboards** that drive data-backed decisions and strategic growth.
 
 ---
 
