@@ -26,4 +26,61 @@ Developed an **Excel-based analytics report** to provide actionable insights int
 - Monitor sales activities and financial performance  
 - Identify top-performing customers, markets, and growth opportunities  
 - Track profitability, revenue trends, and market performance against targets  
-- Support budgeting, forecasting, and strategic
+- Support budgeting, forecasting, and strategic planning  
+
+---
+
+## Sales Analytics
+**Objectives:**  
+1. Generate a **Customer Performance Report**  
+2. Compare **Market Performance** with sales targets  
+
+**Purpose:**  
+- Identify trends and patterns in sales data  
+- Track key metrics to guide sales strategy  
+
+**Impact:**  
+- Inform decisions on customer discounts and pricing strategies  
+- Support negotiations with clients  
+- Highlight potential markets for expansion  
+
+---
+
+## Finance Analytics
+**Objectives:**  
+1. Produce **Profit & Loss (P&L) Reports** by Fiscal Year and Month  
+2. Generate **P&L Reports by Market**  
+3. Create **Gross Margin Reports** by Quarter  
+
+**Purpose:**  
+- Evaluate financial performance  
+- Aid in decision-making and communicate results to stakeholders  
+
+**Impact:**  
+- Align financial operations with strategic goals  
+- Provide benchmarks for future performance  
+- Instill confidence in organizational financial health  
+
+---
+
+## Technical Skills Applied
+- **ETL Process:** Extracted, transformed, and loaded data efficiently  
+- **Power Query:** Data cleaning, Date table creation, and fiscal period calculations  
+- **Power Pivot:** Built relationships between tables and incorporated supplementary data  
+- **DAX:** Created calculated columns for revenue, profit, and other metrics  
+- **Pivot Tables & Conditional Formatting:** Designed structured and visually clear reports  
+
+---
+
+## Soft Skills Developed
+- Understanding of **business-focused sales and finance reporting**  
+- Designing **intuitive, user-focused reports**  
+- Systematic **report-building approach** for complex data  
+- Translating insights into **actionable business strategies**  
+
+---
+
+## Project Outcome
+- Delivered **structured Excel reports** providing a clear view of customer performance, market trends, and profitability  
+- Enabled stakeholders to optimize sales strategies, improve customer engagement, and make informed financial decisions  
+- Supported strategic growth by highlighting high-potential markets and top-performing customers
